@@ -132,7 +132,7 @@
 .boton1 i, .boton2 i, .boton3 i, .boton4 i, .boton5 i, .boton6 i, .boton7 i, .boton8 i, .boton9 i, .boton10 i {
     display:none;
 }
-.boton5 a, .boton6 a, .boton7 a, .boton8 a, .boton9 a, .boton10 a {
+a.boton5, a.boton6, a.boton7, a.boton8, a.boton9, a.boton10 {
     text-decoration: none;
 }
 
