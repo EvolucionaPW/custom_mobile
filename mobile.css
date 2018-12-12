@@ -135,4 +135,6 @@
 a.boton5, a.boton6, a.boton7, a.boton8, a.boton9, a.boton10 {
     text-decoration: none;
 }
-
+.courseimage {
+    display: none;
+}
