@@ -36,63 +36,7 @@
 .usertext, i.fa.fa-chevron-down {
     cursor: pointer;
 }
-.boton1 {
-     float: left; 
-     background-color: #2980B9;
-     margin: 0px 13px 10px; 
-     padding: 25px 0px 20px;
-     border-radius: 5px; 
-     color:#FFFFFF; 
-     width: 21%; 
-     text-align: center; 
-}
-.boton1:hover {
-    background-color: #4f4f4f;
-    text-decoration: none;
-}
 
-.boton2 {
-     float: left; 
-     background-color: #16A085;
-     margin: 0px 13px 10px; 
-     padding: 25px 0px 20px;
-     border-radius: 5px; 
-     color:#FFFFFF; 
-     width: 21%; 
-     text-align: center; 
-}
-.boton2:hover {
-    background-color: #4f4f4f;
-    text-decoration: none;
-}
-.boton3 {
-     float: left; 
-     background-color: #E67E22;
-     margin: 0px 13px 10px; 
-     padding: 25px 0px 20px;
-     border-radius: 5px; 
-     color:#FFFFFF; 
-     width: 21%; 
-     text-align: center; 
-}
-.boton3:hover {
-    background-color: #4f4f4f;
-    text-decoration: none;
-}
-.boton4 {
-     float: left; 
-     background-color: #E74C3C;
-     margin: 0px 13px 10px; 
-     padding: 25px 0px 20px;
-     border-radius: 5px; 
-     color:#FFFFFF; 
-     width: 21%; 
-     text-align: center; 
-}
-.boton4:hover {
-    background-color: #4f4f4f;
-    text-decoration: none;
-}
 .boton5 {
     float: left;
     background-color: #2980B9;
@@ -187,5 +131,8 @@
 }
 .boton1 i, .boton2 i, .boton3 i, .boton4 i, .boton5 i, .boton6 i, .boton7 i, .boton8 i, .boton9 i, .boton10 i {
     display:none;
+}
+.boton5 a, .boton6 a, .boton7 a, .boton8 a, .boton9 a, .boton10 a {
+    text-decoration: none;
 }
 
