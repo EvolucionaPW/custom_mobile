@@ -1,4 +1,10 @@
 /*** PERSONALIZACIÓN MOODLE MOBILE ***/
+.toolbar-background-ios,
+.toolbar-background-md,
+.toolbar-background-wp {
+  background: #5069A1;
+}
+
 .page-top-bar {
     background-color: rgb(35, 46, 125);
 }
