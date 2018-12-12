@@ -1,25 +1,21 @@
 .page-top-bar {
     background-color: rgb(35, 46, 125);
 }
-
 .page-top-bar .top-social-icons {
     visibility: hidden;
 }
-
 .page-top-bar .usertext, .page-top-bar .userbutton fa-chevron-down {
     color: #FFF;
 }
 .page-top-bar .userbutton {
     cursor: pointer;
 }
-
 .sitelogo-img img, .sitelogo-icon-name img {
     margin-bottom: 20px;
 }
 .navbar .langmenu {
     display:none;
 }
-
 .banner-bg-color {
     background-size: cover !important;
     background-position: center !important;
@@ -36,7 +32,6 @@
 .usertext, i.fa.fa-chevron-down {
     cursor: pointer;
 }
-
 .boton5 {
     float: left;
     background-color: #2980B9;
